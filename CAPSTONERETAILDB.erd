@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram version="1" name="CAPSTONERETAILDB">
+	<entities>
+		<data-source id="sqlite_jdbc-19dda039ed1-93801e9fec4fcb0">
+			<entity id="1" name="marketing_campaign" fq-name="marketing_campaign"/>
+		</data-source>
+	</entities>
+	<relations/>
+</diagram>
